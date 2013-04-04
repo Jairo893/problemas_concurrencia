@@ -16,7 +16,7 @@ public class canibal extends Thread{
 			Thread.sleep(retardo);
 		} catch(InterruptedException ie){}
 
-		laMarmita.comer(id);
+		laMarmita.comer(id); 
 
 		}
 	}
